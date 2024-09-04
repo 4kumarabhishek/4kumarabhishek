@@ -11,9 +11,7 @@
 <img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="50%" height="70%" style="margin:0 50px;">
 </a>
 
-### 👀 I’m a Full Stack Developer (MERN Stack).
-
-### 🌱 I’m currently working on a full stack project based on MERN stack.
+### 👀 I’m a Full Stack Developer.
 
 ### 💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
